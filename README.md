@@ -6,7 +6,7 @@ Kodu html səhifənizdə body teqləri arasına yapışdırın.
 
 Telegram : [KIBER AZ 🇦🇿](t.me/kiberazz)
 
-Mənimlə əlaqə : [BossNetworkk](t.me/bossnetworkk)
+Əlaqə : [BossNetworkk](t.me/bossnetworkk)
 
 
 Qeyd : Qadağan etmək istədiyiniz ölkənin adını
