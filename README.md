@@ -13,4 +13,3 @@ Qeyd : Qadağan etmək istədiyiniz ölkənin adını
 Kod daxilində Rusca yazın !
 
 
-![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
