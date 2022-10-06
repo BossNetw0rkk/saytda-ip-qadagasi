@@ -1,0 +1,15 @@
+<script src="https://api-maps.yandex.ru/2.0/?load=package.standard&lang=ru-RU" type="text/javascript"></script>
+<div id="get_info" style="display:none;"></div>
+<script>
+ ymaps.ready(init);
+ function init() {
+  var geolocation = ymaps.geolocation, 
+  coords = [geolocation.latitude, geolocation.longitude], 
+  myMap = new ymaps.Map("get_info", {center: coords, zoom: 10});
+  var country = geolocation.country; //  
+  var city = geolocation.city; // 
+  if(country == "ölkəni yaz") {
+   window.location.href = "http://blockcountry.blogspot.com/blocked.html/"; // 
+  }
+ } 
+</script>
